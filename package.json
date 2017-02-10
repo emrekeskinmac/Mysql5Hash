@@ -1,6 +1,6 @@
 {
   "name": "mysql5hash",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "mysql5 password() hash npm module",
   "main": "index.js",
   "scripts": {
