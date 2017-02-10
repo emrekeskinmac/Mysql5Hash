@@ -3,8 +3,6 @@ Mysql5 Hashing
 
 Mysql PASSWORD() hashing npm module
 
-See the associated blog post, ["Creating and publishing a node.js module."](https://quickleft.com/blog/creating-and-publishing-a-node-js-module/)
-
 ## Installation
 
 ```shell
