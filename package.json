@@ -1,0 +1,27 @@
+{
+  "name": "mysql5hash",
+  "version": "0.0.4",
+  "description": "mysql5 password() hash npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrekeskinmac/Mysql5Hash.git"
+  },
+  "keywords": [
+    "mysql5",
+    "hash",
+    "password()",
+    "mysql",
+    "password"
+  ],
+  "author": "Emre Keskin <emrekeskinmac@gmail.com> (http://emrekeskin.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emrekeskinmac/Mysql5Hash/issues"
+  },
+  "homepage": "https://github.com/emrekeskinmac/Mysql5Hash#readme",
+  "dependencies": {}
+}
