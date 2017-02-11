@@ -1,7 +1,10 @@
+
 Mysql5 Hashing
 =========
 
 Mysql PASSWORD() hashing npm module
+
+[![npm version](https://badge.fury.io/js/mysql5hash.png)](https://badge.fury.io/js/mysql5hash)
 
 ## Installation
 
